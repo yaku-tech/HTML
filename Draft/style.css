@@ -2,6 +2,14 @@ h1 {
     font-style: italic;
 }
 
-p {
+.text {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    display: flex;
+}
+
+input, button {
+    margin: 8px;
 }
